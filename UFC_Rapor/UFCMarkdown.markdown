@@ -1,10 +1,14 @@
 Genel İstatistiklere Bakalım:
 
-<img src="media/image1.png" style="width:6.91603in;height:4.89171in"
-alt="metin, ekran görüntüsü, yazılım, bilgisayar içeren bir resim Açıklama otomatik olarak oluşturuldu" />
+![metin, ekran görüntüsü, yazılım, bilgisayar içeren bir resim Açıklama
+otomatik olarak
+oluşturuldu](vertopal_a0190214d4cb4881ac79a4d2b827242a/media/image1.png){width="6.916027996500437in"
+height="4.891706036745407in"}
 
-<img src="media/image2.png" style="width:6.53333in;height:5.27161in"
-alt="metin, ekran görüntüsü, kare, dikdörtgen içeren bir resim Açıklama otomatik olarak oluşturuldu" />
+![metin, ekran görüntüsü, kare, dikdörtgen içeren bir resim Açıklama
+otomatik olarak
+oluşturuldu](vertopal_a0190214d4cb4881ac79a4d2b827242a/media/image2.png){width="6.533333333333333in"
+height="5.27160542432196in"}
 
 Height, Weight ve Reach: Fiziksel özellikler arasında orta ila yüksek
 derecede bir korelasyon olduğu görülmektedir, bu da daha uzun
@@ -39,47 +43,54 @@ bir şekilde korelasyon gösteriyor (0.49) Benzer şekilde daha çok
 takedown yapan dövüşçülerin daha isabetli takedown yapma eğiliminde
 olduğunu söyleyebiliriz.
 
-<img src="media/image3.png" style="width:6.61809in;height:4.44523in"
-alt="metin, yazılım, ekran görüntüsü, bilgisayar içeren bir resim Açıklama otomatik olarak oluşturuldu" />
+![metin, yazılım, ekran görüntüsü, bilgisayar içeren bir resim Açıklama
+otomatik olarak
+oluşturuldu](vertopal_a0190214d4cb4881ac79a4d2b827242a/media/image3.png){width="6.618089457567804in"
+height="4.445232939632546in"}
 
-<img src="media/image4.png" style="width:6.55726in;height:3.98481in"
-alt="metin, diyagram, çizgi, öykü gelişim çizgisi; kumpas; grafiğini çıkarma içeren bir resim Açıklama otomatik olarak oluşturuldu" />
+![metin, diyagram, çizgi, öykü gelişim çizgisi; kumpas; grafiğini
+çıkarma içeren bir resim Açıklama otomatik olarak
+oluşturuldu](vertopal_a0190214d4cb4881ac79a4d2b827242a/media/image4.png){width="6.557257217847769in"
+height="3.984806430446194in"}
 
-Dövüşteki farklı stance’ler arasındaki metric’lerin farklılıklarını
+Dövüşteki farklı stance'ler arasındaki metric'lerin farklılıklarını
 görebiliriz.
 
 Switch stance duranların vuruş isabetinde diğer duruşlara göre bir
 üstünüğü,
 
-Southpaw duranların, takedown isabetinde, ortalama 15dk’daki takedown
+Southpaw duranların, takedown isabetinde, ortalama 15dk'daki takedown
 sayısında ve maç kazanmada diğer duruşlara bir üstünlüğü bulunmaktadır.
 
-Open Stance’in örneklem sayısı çok küçük olduğundan değerlendirmeye
+Open Stance'in örneklem sayısı çok küçük olduğundan değerlendirmeye
 almıyorum.
 
-Switch stance’in daha isabetli vuruşlar sağlamasının nedeni, rakibin
+Switch stance'in daha isabetli vuruşlar sağlamasının nedeni, rakibin
 stratejisinin sürekli duruş değiştiren bir rakibe uygun olmayışının ve
 böyle bir rakibe hazırlanmıyor oluşunun payı olabilir.
 
-Southpaw’ların daha çok takedown yapabilmesindeki ana nedeni şöyle
-açıklayabilirim:  
+Southpaw'ların daha çok takedown yapabilmesindeki ana nedeni şöyle
+açıklayabilirim:\
 Takedown en temelde rakibini yere almak demektir. Geleneksel (orthodox)
 duran bir adam, southpaw duran bir adama ters kalacağı için ve alışık
 olmadığı ayağı önde olduğu için fiziksel olarak yere indirmesi daha
 kolay olabilir. Buna grappling bakımından mismatch diyebiliriz.
 
-<img src="media/image5.png" style="width:6.3in;height:4.17917in"
-alt="metin, ekran görüntüsü, çizgi, öykü gelişim çizgisi; kumpas; grafiğini çıkarma içeren bir resim Açıklama otomatik olarak oluşturuldu" />
+![metin, ekran görüntüsü, çizgi, öykü gelişim çizgisi; kumpas; grafiğini
+çıkarma içeren bir resim Açıklama otomatik olarak
+oluşturuldu](vertopal_a0190214d4cb4881ac79a4d2b827242a/media/image5.png){width="6.3in"
+height="4.179166666666666in"}
 
 Yukarıda vuruş isabeti ile maç kazanmanın ikili ilişkisini görmekteyiz.
 Elbette, yığılma 40-50 dolaylarında.
 
-<img src="media/image6.png" style="width:6.3in;height:3.98125in"
-alt="metin, ekran görüntüsü, çizgi, diyagram içeren bir resim Açıklama otomatik olarak oluşturuldu" />
-Takedown savunması ile takedown isabeti arasında güçlü bir trent
-görememekteyiz. Yani bir dövüşçünün takedown savunmada iyi olması,
-necessarily başarılı takedown yapabileceği anlamına gelmiyor. Ve tam
-tersi.
+![metin, ekran görüntüsü, çizgi, diyagram içeren bir resim Açıklama
+otomatik olarak
+oluşturuldu](vertopal_a0190214d4cb4881ac79a4d2b827242a/media/image6.png){width="6.3in"
+height="3.98125in"} Takedown savunması ile takedown isabeti arasında
+güçlü bir trent görememekteyiz. Yani bir dövüşçünün takedown savunmada
+iyi olması, necessarily başarılı takedown yapabileceği anlamına
+gelmiyor. Ve tam tersi.
 
 takedown_accuracy takedown_defense
 
@@ -87,17 +98,21 @@ takedown_accuracy 1.000000 0.345909
 
 takedown_defense 0.345909 1.000000
 
-<img src="media/image7.png" style="width:6.47616in;height:4.09258in"
-alt="metin, ekran görüntüsü, diyagram, çizgi içeren bir resim Açıklama otomatik olarak oluşturuldu" />
+![metin, ekran görüntüsü, diyagram, çizgi içeren bir resim Açıklama
+otomatik olarak
+oluşturuldu](vertopal_a0190214d4cb4881ac79a4d2b827242a/media/image7.png){width="6.476164698162729in"
+height="4.0925765529308835in"}
 
-Bu grafik de MMA’nin ne kadar multi-faceted bir spor olduğunu
+Bu grafik de MMA'nin ne kadar multi-faceted bir spor olduğunu
 gösteriyor. Bir trent yakalamak zor.
 
-Her Weight Class İçin En ‘’Güçlü’’ Vuruşlara Sahip olan 5 Dövüşçüyü
+Her Weight Class İçin En ''Güçlü'' Vuruşlara Sahip olan 5 Dövüşçüyü
 Tespit Edelim:
 
-<img src="media/image8.png" style="width:6.90342in;height:5.26586in"
-alt="metin, ekran görüntüsü, yazılım, multimedya yazılımı içeren bir resim Açıklama otomatik olarak oluşturuldu" />
+![metin, ekran görüntüsü, yazılım, multimedya yazılımı içeren bir resim
+Açıklama otomatik olarak
+oluşturuldu](vertopal_a0190214d4cb4881ac79a4d2b827242a/media/image8.png){width="6.903420822397201in"
+height="5.265862860892389in"}
 
 Total_KD Total_STR KO_TKO_Wins Fights Fighter_Name \\
 
@@ -205,8 +220,10 @@ Punch_Power_Score Adjusted_Score Most_Frequent_Weight_Class
 
 Her Weight Class İçin En Dayanıklı 5 Dövüşçüyü Tespit Edelim:
 
-<img src="media/image9.png" style="width:7.00682in;height:5.69299in"
-alt="metin, yazılım, ekran görüntüsü, multimedya yazılımı içeren bir resim Açıklama otomatik olarak oluşturuldu" />
+![metin, yazılım, ekran görüntüsü, multimedya yazılımı içeren bir resim
+Açıklama otomatik olarak
+oluşturuldu](vertopal_a0190214d4cb4881ac79a4d2b827242a/media/image9.png){width="7.006820866141732in"
+height="5.692986657917761in"}
 
 Fighter Weight_Class Durability_Score
 
@@ -262,43 +279,63 @@ Fighter Weight_Class Durability_Score
 
 Her Weight Class için Kulaç Uzunluğunun (Reach) Önemini Saptayalım:
 
-<img src="media/image10.png" style="width:6.3in;height:4.92847in"
-alt="metin, çizgi, diyagram, ekran görüntüsü içeren bir resim Açıklama otomatik olarak oluşturuldu" />
+![metin, çizgi, diyagram, ekran görüntüsü içeren bir resim Açıklama
+otomatik olarak
+oluşturuldu](vertopal_a0190214d4cb4881ac79a4d2b827242a/media/image10.png){width="6.3in"
+height="4.928472222222222in"}
 
-<img src="media/image11.png" style="width:5.88969in;height:4.60749in"
-alt="metin, diyagram, ekran görüntüsü, çizgi içeren bir resim Açıklama otomatik olarak oluşturuldu" />
+![metin, diyagram, ekran görüntüsü, çizgi içeren bir resim Açıklama
+otomatik olarak
+oluşturuldu](vertopal_a0190214d4cb4881ac79a4d2b827242a/media/image11.png){width="5.889689413823272in"
+height="4.60748687664042in"}
 
-<img src="media/image12.png" style="width:5.94538in;height:4.65106in"
-alt="metin, diyagram, çizgi, öykü gelişim çizgisi; kumpas; grafiğini çıkarma içeren bir resim Açıklama otomatik olarak oluşturuldu" />
+![metin, diyagram, çizgi, öykü gelişim çizgisi; kumpas; grafiğini
+çıkarma içeren bir resim Açıklama otomatik olarak
+oluşturuldu](vertopal_a0190214d4cb4881ac79a4d2b827242a/media/image12.png){width="5.94538167104112in"
+height="4.651055336832896in"}
 
-<img src="media/image13.png" style="width:5.9993in;height:4.62777in"
-alt="metin, diyagram, ekran görüntüsü, çizgi içeren bir resim Açıklama otomatik olarak oluşturuldu" />
+![metin, diyagram, ekran görüntüsü, çizgi içeren bir resim Açıklama
+otomatik olarak
+oluşturuldu](vertopal_a0190214d4cb4881ac79a4d2b827242a/media/image13.png){width="5.999303368328959in"
+height="4.627770122484689in"}
 
-<img src="media/image14.png" style="width:5.91188in;height:4.62485in"
-alt="metin, diyagram, ekran görüntüsü, çizgi içeren bir resim Açıklama otomatik olarak oluşturuldu" />
+![metin, diyagram, ekran görüntüsü, çizgi içeren bir resim Açıklama
+otomatik olarak
+oluşturuldu](vertopal_a0190214d4cb4881ac79a4d2b827242a/media/image14.png){width="5.911882108486439in"
+height="4.624847987751531in"}
 
-<img src="media/image15.png" style="width:6.07054in;height:4.74896in"
-alt="metin, diyagram, ekran görüntüsü, çizgi içeren bir resim Açıklama otomatik olarak oluşturuldu" />
+![metin, diyagram, ekran görüntüsü, çizgi içeren bir resim Açıklama
+otomatik olarak
+oluşturuldu](vertopal_a0190214d4cb4881ac79a4d2b827242a/media/image15.png){width="6.070535870516186in"
+height="4.748963254593176in"}
 
-<img src="media/image16.png" style="width:6.07401in;height:4.75168in"
-alt="metin, diyagram, çizgi, öykü gelişim çizgisi; kumpas; grafiğini çıkarma içeren bir resim Açıklama otomatik olarak oluşturuldu" />
+![metin, diyagram, çizgi, öykü gelişim çizgisi; kumpas; grafiğini
+çıkarma içeren bir resim Açıklama otomatik olarak
+oluşturuldu](vertopal_a0190214d4cb4881ac79a4d2b827242a/media/image16.png){width="6.074009186351706in"
+height="4.751680883639545in"}
 
-<img src="media/image17.png" style="width:5.89961in;height:4.55997in"
-alt="metin, ekran görüntüsü, öykü gelişim çizgisi; kumpas; grafiğini çıkarma, çizgi içeren bir resim Açıklama otomatik olarak oluşturuldu" />
+![metin, ekran görüntüsü, öykü gelişim çizgisi; kumpas; grafiğini
+çıkarma, çizgi içeren bir resim Açıklama otomatik olarak
+oluşturuldu](vertopal_a0190214d4cb4881ac79a4d2b827242a/media/image17.png){width="5.89961176727909in"
+height="4.559972659667541in"}
 
 Kulaç uzunluğu en çok Light Heavyweight klasmanındaki galibiyetler ile
 korelasyon göstermekte.
 
-Bir de Stance’ler Ekseninden Vuruş İsabetini ve Kazanma Oranını
+Bir de Stance'ler Ekseninden Vuruş İsabetini ve Kazanma Oranını
 İnceleyelim:
 
-<img src="media/image18.png" style="width:7.1632in;height:4.54885in"
-alt="metin, ekran görüntüsü, diyagram, çizgi içeren bir resim Açıklama otomatik olarak oluşturuldu" />
+![metin, ekran görüntüsü, diyagram, çizgi içeren bir resim Açıklama
+otomatik olarak
+oluşturuldu](vertopal_a0190214d4cb4881ac79a4d2b827242a/media/image18.png){width="7.163201006124234in"
+height="4.548853893263342in"}
 
 Lineer Regresyona Bakalım:
 
-<img src="media/image19.png" style="width:5.38822in;height:3.87452in"
-alt="metin, ekran görüntüsü, diyagram, çizgi içeren bir resim Açıklama otomatik olarak oluşturuldu" />
+![metin, ekran görüntüsü, diyagram, çizgi içeren bir resim Açıklama
+otomatik olarak
+oluşturuldu](vertopal_a0190214d4cb4881ac79a4d2b827242a/media/image19.png){width="5.388215223097113in"
+height="3.8745155293088365in"}
 
 Orthodox Duruşu:
 
@@ -309,7 +346,7 @@ Doğrusal regresyon analizine göre, kritik vuruş isabet oranındaki her
 yüzde birlik artış, galibiyet oranını yaklaşık %0.3 artırıyor.
 
 R-kare değeri 0.114; bu, kritik vuruş isabet oranının galibiyet
-oranındaki varyansın yaklaşık %11.4'ünü açıkladığını gösteriyor.
+oranındaki varyansın yaklaşık %11.4\'ünü açıkladığını gösteriyor.
 
 Ortalama isabet oranı %39.88, medyan isabet oranı %42 ve standart sapma
 16.86.
@@ -327,7 +364,7 @@ Doğrusal regresyon analizine göre, isabet oranındaki her yüzde birlik
 artış galibiyet oranını yaklaşık %0.4 artırıyor.
 
 R-kare değeri 0.155; bu, isabet oranının galibiyet oranındaki varyansın
-yaklaşık %15.5'ini açıkladığını gösteriyor.
+yaklaşık %15.5\'ini açıkladığını gösteriyor.
 
 Switch Duruşu:
 
@@ -337,7 +374,7 @@ Doğrusal regresyon analizine göre, isabet oranındaki her yüzde birlik
 artış galibiyet oranını yaklaşık %0.2 artırıyor.
 
 R-kare değeri 0.056; bu, isabet oranının galibiyet oranındaki varyansın
-yaklaşık %5.6'sını açıkladığını gösteriyor.
+yaklaşık %5.6\'sını açıkladığını gösteriyor.
 
 Sideways Duruşu:
 
