@@ -2,11 +2,11 @@
 
 ![metin, ekran görüntüsü, yazılım, bilgisayar içeren bir resim
 
-Açıklama otomatik olarak oluşturuldu](Aspose.Words.edff2e80-e7dd-4d04-a608-a216cf355efe.001.png)
+Açıklama otomatik olarak oluşturuldu](Aspose.Words.8d30fadd-9167-4146-90b1-1ab71d6f0367.001.png)
 
 ![metin, ekran görüntüsü, kare, dikdörtgen içeren bir resim
 
-Açıklama otomatik olarak oluşturuldu](Aspose.Words.edff2e80-e7dd-4d04-a608-a216cf355efe.002.png)
+Açıklama otomatik olarak oluşturuldu](Aspose.Words.8d30fadd-9167-4146-90b1-1ab71d6f0367.002.png)
 
 Height, Weight ve Reach: Fiziksel özellikler arasında orta ila yüksek derecede bir korelasyon olduğu görülmektedir, bu da daha uzun dövüşçülerin genellikle daha uzun menzile sahip olduğu ve genellikle daha yüksek ağırlık sınıflarında yarıştığı beklendiği anlamına gelir.
 
@@ -24,11 +24,11 @@ Average takedowns landed per 15 minutes ve takedown accuracy de makul bir şekil
 
 ![metin, yazılım, ekran görüntüsü, bilgisayar içeren bir resim
 
-Açıklama otomatik olarak oluşturuldu](Aspose.Words.edff2e80-e7dd-4d04-a608-a216cf355efe.003.png)
+Açıklama otomatik olarak oluşturuldu](Aspose.Words.8d30fadd-9167-4146-90b1-1ab71d6f0367.003.png)
 
 ![metin, diyagram, çizgi, öykü gelişim çizgisi; kumpas; grafiğini çıkarma içeren bir resim
 
-Açıklama otomatik olarak oluşturuldu](Aspose.Words.edff2e80-e7dd-4d04-a608-a216cf355efe.004.png)
+Açıklama otomatik olarak oluşturuldu](Aspose.Words.8d30fadd-9167-4146-90b1-1ab71d6f0367.004.png)
 
 Dövüşteki farklı stance’ler arasındaki metric’lerin farklılıklarını görebiliriz.
 
@@ -45,13 +45,13 @@ Takedown en temelde rakibini yere almak demektir. Geleneksel (orthodox) duran bi
 
 ![metin, ekran görüntüsü, çizgi, öykü gelişim çizgisi; kumpas; grafiğini çıkarma içeren bir resim
 
-Açıklama otomatik olarak oluşturuldu](Aspose.Words.edff2e80-e7dd-4d04-a608-a216cf355efe.005.png)
+Açıklama otomatik olarak oluşturuldu](Aspose.Words.8d30fadd-9167-4146-90b1-1ab71d6f0367.005.png)
 
 Yukarıda vuruş isabeti ile maç kazanmanın ikili ilişkisini görmekteyiz. Elbette, yığılma 40-50 dolaylarında.
 
 ![metin, ekran görüntüsü, çizgi, diyagram içeren bir resim
 
-Açıklama otomatik olarak oluşturuldu](Aspose.Words.edff2e80-e7dd-4d04-a608-a216cf355efe.006.png) Takedown savunması ile takedown isabeti arasında güçlü bir trent görememekteyiz. Yani bir dövüşçünün takedown savunmada iyi olması, necessarily başarılı takedown yapabileceği anlamına gelmiyor. Ve tam tersi.
+Açıklama otomatik olarak oluşturuldu](Aspose.Words.8d30fadd-9167-4146-90b1-1ab71d6f0367.006.png) Takedown savunması ile takedown isabeti arasında güçlü bir trent görememekteyiz. Yani bir dövüşçünün takedown savunmada iyi olması, necessarily başarılı takedown yapabileceği anlamına gelmiyor. Ve tam tersi.
 
 takedown\_accuracy  takedown\_defense
 
@@ -61,7 +61,7 @@ takedown\_defense            0.345909          1.000000
 
 ![metin, ekran görüntüsü, diyagram, çizgi içeren bir resim
 
-Açıklama otomatik olarak oluşturuldu](Aspose.Words.edff2e80-e7dd-4d04-a608-a216cf355efe.007.png)
+Açıklama otomatik olarak oluşturuldu](Aspose.Words.8d30fadd-9167-4146-90b1-1ab71d6f0367.007.png)
 
 Bu grafik de MMA’nin ne kadar multi-faceted bir spor olduğunu gösteriyor. Bir trent yakalamak zor. 
 
@@ -77,7 +77,7 @@ Her Weight Class İçin En ‘’Güçlü’’ Vuruşlara Sahip olan 5 Dövüş
 
 ![metin, ekran görüntüsü, yazılım, multimedya yazılımı içeren bir resim
 
-Açıklama otomatik olarak oluşturuldu](Aspose.Words.edff2e80-e7dd-4d04-a608-a216cf355efe.008.png)
+Açıklama otomatik olarak oluşturuldu](Aspose.Words.8d30fadd-9167-4146-90b1-1ab71d6f0367.008.png)
 
 
 Total\_KD  Total\_STR  KO\_TKO\_Wins  Fights          Fighter\_Name  \
@@ -201,7 +201,7 @@ Her Weight Class İçin En Dayanıklı 5 Dövüşçüyü Tespit Edelim:
 
 ![metin, yazılım, ekran görüntüsü, multimedya yazılımı içeren bir resim
 
-Açıklama otomatik olarak oluşturuldu](Aspose.Words.edff2e80-e7dd-4d04-a608-a216cf355efe.009.png)
+Açıklama otomatik olarak oluşturuldu](Aspose.Words.8d30fadd-9167-4146-90b1-1ab71d6f0367.009.png)
 
 Fighter       Weight\_Class  Durability\_Score
 
@@ -272,35 +272,35 @@ Her Weight Class için Kulaç Uzunluğunun (Reach) Önemini Saptayalım:
 
 ![metin, çizgi, diyagram, ekran görüntüsü içeren bir resim
 
-Açıklama otomatik olarak oluşturuldu](Aspose.Words.edff2e80-e7dd-4d04-a608-a216cf355efe.010.png)
+Açıklama otomatik olarak oluşturuldu](Aspose.Words.8d30fadd-9167-4146-90b1-1ab71d6f0367.010.png)
 
 ![metin, diyagram, ekran görüntüsü, çizgi içeren bir resim
 
-Açıklama otomatik olarak oluşturuldu](Aspose.Words.edff2e80-e7dd-4d04-a608-a216cf355efe.011.png)
+Açıklama otomatik olarak oluşturuldu](Aspose.Words.8d30fadd-9167-4146-90b1-1ab71d6f0367.011.png)
 
 ![metin, diyagram, çizgi, öykü gelişim çizgisi; kumpas; grafiğini çıkarma içeren bir resim
 
-Açıklama otomatik olarak oluşturuldu](Aspose.Words.edff2e80-e7dd-4d04-a608-a216cf355efe.012.png)
+Açıklama otomatik olarak oluşturuldu](Aspose.Words.8d30fadd-9167-4146-90b1-1ab71d6f0367.012.png)
 
 ![metin, diyagram, ekran görüntüsü, çizgi içeren bir resim
 
-Açıklama otomatik olarak oluşturuldu](Aspose.Words.edff2e80-e7dd-4d04-a608-a216cf355efe.013.png)
+Açıklama otomatik olarak oluşturuldu](Aspose.Words.8d30fadd-9167-4146-90b1-1ab71d6f0367.013.png)
 
 ![metin, diyagram, ekran görüntüsü, çizgi içeren bir resim
 
-Açıklama otomatik olarak oluşturuldu](Aspose.Words.edff2e80-e7dd-4d04-a608-a216cf355efe.014.png)
+Açıklama otomatik olarak oluşturuldu](Aspose.Words.8d30fadd-9167-4146-90b1-1ab71d6f0367.014.png)
 
 ![metin, diyagram, ekran görüntüsü, çizgi içeren bir resim
 
-Açıklama otomatik olarak oluşturuldu](Aspose.Words.edff2e80-e7dd-4d04-a608-a216cf355efe.015.png)
+Açıklama otomatik olarak oluşturuldu](Aspose.Words.8d30fadd-9167-4146-90b1-1ab71d6f0367.015.png)
 
 ![metin, diyagram, çizgi, öykü gelişim çizgisi; kumpas; grafiğini çıkarma içeren bir resim
 
-Açıklama otomatik olarak oluşturuldu](Aspose.Words.edff2e80-e7dd-4d04-a608-a216cf355efe.016.png)
+Açıklama otomatik olarak oluşturuldu](Aspose.Words.8d30fadd-9167-4146-90b1-1ab71d6f0367.016.png)
 
 ![metin, ekran görüntüsü, öykü gelişim çizgisi; kumpas; grafiğini çıkarma, çizgi içeren bir resim
 
-Açıklama otomatik olarak oluşturuldu](Aspose.Words.edff2e80-e7dd-4d04-a608-a216cf355efe.017.png)
+Açıklama otomatik olarak oluşturuldu](Aspose.Words.8d30fadd-9167-4146-90b1-1ab71d6f0367.017.png)
 
 Kulaç uzunluğu en çok Light Heavyweight klasmanındaki galibiyetler ile korelasyon göstermekte.
 
@@ -319,7 +319,7 @@ Bir de Stance’ler Ekseninden Vuruş İsabetini ve Kazanma Oranını İnceleyel
 
 ![metin, ekran görüntüsü, diyagram, çizgi içeren bir resim
 
-Açıklama otomatik olarak oluşturuldu](Aspose.Words.edff2e80-e7dd-4d04-a608-a216cf355efe.018.png)
+Açıklama otomatik olarak oluşturuldu](Aspose.Words.8d30fadd-9167-4146-90b1-1ab71d6f0367.018.png)
 
 
 
@@ -335,7 +335,7 @@ Lineer Regresyona Bakalım:
 
 ![metin, ekran görüntüsü, diyagram, çizgi içeren bir resim
 
-Açıklama otomatik olarak oluşturuldu](Aspose.Words.edff2e80-e7dd-4d04-a608-a216cf355efe.019.png)
+Açıklama otomatik olarak oluşturuldu](Aspose.Words.8d30fadd-9167-4146-90b1-1ab71d6f0367.019.png)
 
 Orthodox Duruşu:
 
