@@ -1,12 +1,5 @@
 ﻿Genel İstatistiklere Bakalım:
 
-![metin, ekran görüntüsü, yazılım, bilgisayar içeren bir resim
-
-Açıklama otomatik olarak oluşturuldu](Aspose.Words.8d30fadd-9167-4146-90b1-1ab71d6f0367.001.png)
-
-![metin, ekran görüntüsü, kare, dikdörtgen içeren bir resim
-
-Açıklama otomatik olarak oluşturuldu](Aspose.Words.8d30fadd-9167-4146-90b1-1ab71d6f0367.002.png)
 
 Height, Weight ve Reach: Fiziksel özellikler arasında orta ila yüksek derecede bir korelasyon olduğu görülmektedir, bu da daha uzun dövüşçülerin genellikle daha uzun menzile sahip olduğu ve genellikle daha yüksek ağırlık sınıflarında yarıştığı beklendiği anlamına gelir.
 
@@ -22,13 +15,8 @@ Significant strikes landed per minute ve significant striking accuracy arasında
 
 Average takedowns landed per 15 minutes ve takedown accuracy de makul bir şekilde korelasyon gösteriyor (0.49) Benzer şekilde daha çok takedown yapan dövüşçülerin daha isabetli takedown yapma eğiliminde olduğunu söyleyebiliriz.
 
-![metin, yazılım, ekran görüntüsü, bilgisayar içeren bir resim
 
-Açıklama otomatik olarak oluşturuldu](Aspose.Words.8d30fadd-9167-4146-90b1-1ab71d6f0367.003.png)
 
-![metin, diyagram, çizgi, öykü gelişim çizgisi; kumpas; grafiğini çıkarma içeren bir resim
-
-Açıklama otomatik olarak oluşturuldu](Aspose.Words.8d30fadd-9167-4146-90b1-1ab71d6f0367.004.png)
 
 Dövüşteki farklı stance’ler arasındaki metric’lerin farklılıklarını görebiliriz.
 
@@ -43,15 +31,11 @@ Switch stance’in daha isabetli vuruşlar sağlamasının nedeni, rakibin strat
 Southpaw’ların daha çok takedown yapabilmesindeki ana nedeni şöyle açıklayabilirim:
 Takedown en temelde rakibini yere almak demektir. Geleneksel (orthodox) duran bir adam, southpaw duran bir adama ters kalacağı için ve alışık olmadığı ayağı önde olduğu için fiziksel olarak yere indirmesi daha kolay olabilir. Buna grappling bakımından mismatch diyebiliriz.
 
-![metin, ekran görüntüsü, çizgi, öykü gelişim çizgisi; kumpas; grafiğini çıkarma içeren bir resim
 
-Açıklama otomatik olarak oluşturuldu](Aspose.Words.8d30fadd-9167-4146-90b1-1ab71d6f0367.005.png)
 
 Yukarıda vuruş isabeti ile maç kazanmanın ikili ilişkisini görmekteyiz. Elbette, yığılma 40-50 dolaylarında.
 
-![metin, ekran görüntüsü, çizgi, diyagram içeren bir resim
-
-Açıklama otomatik olarak oluşturuldu](Aspose.Words.8d30fadd-9167-4146-90b1-1ab71d6f0367.006.png) Takedown savunması ile takedown isabeti arasında güçlü bir trent görememekteyiz. Yani bir dövüşçünün takedown savunmada iyi olması, necessarily başarılı takedown yapabileceği anlamına gelmiyor. Ve tam tersi.
+` `Takedown savunması ile takedown isabeti arasında güçlü bir trent görememekteyiz. Yani bir dövüşçünün takedown savunmada iyi olması, necessarily başarılı takedown yapabileceği anlamına gelmiyor. Ve tam tersi.
 
 takedown\_accuracy  takedown\_defense
 
@@ -59,9 +43,6 @@ takedown\_accuracy           1.000000          0.345909
 
 takedown\_defense            0.345909          1.000000
 
-![metin, ekran görüntüsü, diyagram, çizgi içeren bir resim
-
-Açıklama otomatik olarak oluşturuldu](Aspose.Words.8d30fadd-9167-4146-90b1-1ab71d6f0367.007.png)
 
 Bu grafik de MMA’nin ne kadar multi-faceted bir spor olduğunu gösteriyor. Bir trent yakalamak zor. 
 
@@ -75,9 +56,6 @@ Bu grafik de MMA’nin ne kadar multi-faceted bir spor olduğunu gösteriyor. Bi
 
 Her Weight Class İçin En ‘’Güçlü’’ Vuruşlara Sahip olan 5 Dövüşçüyü Tespit Edelim:
 
-![metin, ekran görüntüsü, yazılım, multimedya yazılımı içeren bir resim
-
-Açıklama otomatik olarak oluşturuldu](Aspose.Words.8d30fadd-9167-4146-90b1-1ab71d6f0367.008.png)
 
 
 Total\_KD  Total\_STR  KO\_TKO\_Wins  Fights          Fighter\_Name  \
@@ -199,10 +177,6 @@ Total\_KD  Total\_STR  KO\_TKO\_Wins  Fights          Fighter\_Name  \
 
 Her Weight Class İçin En Dayanıklı 5 Dövüşçüyü Tespit Edelim:
 
-![metin, yazılım, ekran görüntüsü, multimedya yazılımı içeren bir resim
-
-Açıklama otomatik olarak oluşturuldu](Aspose.Words.8d30fadd-9167-4146-90b1-1ab71d6f0367.009.png)
-
 Fighter       Weight\_Class  Durability\_Score
 
 0        Cheick Kongo        Heavyweight         89.216667
@@ -270,37 +244,13 @@ Fighter       Weight\_Class  Durability\_Score
 
 Her Weight Class için Kulaç Uzunluğunun (Reach) Önemini Saptayalım:
 
-![metin, çizgi, diyagram, ekran görüntüsü içeren bir resim
 
-Açıklama otomatik olarak oluşturuldu](Aspose.Words.8d30fadd-9167-4146-90b1-1ab71d6f0367.010.png)
 
-![metin, diyagram, ekran görüntüsü, çizgi içeren bir resim
 
-Açıklama otomatik olarak oluşturuldu](Aspose.Words.8d30fadd-9167-4146-90b1-1ab71d6f0367.011.png)
 
-![metin, diyagram, çizgi, öykü gelişim çizgisi; kumpas; grafiğini çıkarma içeren bir resim
 
-Açıklama otomatik olarak oluşturuldu](Aspose.Words.8d30fadd-9167-4146-90b1-1ab71d6f0367.012.png)
 
-![metin, diyagram, ekran görüntüsü, çizgi içeren bir resim
 
-Açıklama otomatik olarak oluşturuldu](Aspose.Words.8d30fadd-9167-4146-90b1-1ab71d6f0367.013.png)
-
-![metin, diyagram, ekran görüntüsü, çizgi içeren bir resim
-
-Açıklama otomatik olarak oluşturuldu](Aspose.Words.8d30fadd-9167-4146-90b1-1ab71d6f0367.014.png)
-
-![metin, diyagram, ekran görüntüsü, çizgi içeren bir resim
-
-Açıklama otomatik olarak oluşturuldu](Aspose.Words.8d30fadd-9167-4146-90b1-1ab71d6f0367.015.png)
-
-![metin, diyagram, çizgi, öykü gelişim çizgisi; kumpas; grafiğini çıkarma içeren bir resim
-
-Açıklama otomatik olarak oluşturuldu](Aspose.Words.8d30fadd-9167-4146-90b1-1ab71d6f0367.016.png)
-
-![metin, ekran görüntüsü, öykü gelişim çizgisi; kumpas; grafiğini çıkarma, çizgi içeren bir resim
-
-Açıklama otomatik olarak oluşturuldu](Aspose.Words.8d30fadd-9167-4146-90b1-1ab71d6f0367.017.png)
 
 Kulaç uzunluğu en çok Light Heavyweight klasmanındaki galibiyetler ile korelasyon göstermekte.
 
@@ -317,9 +267,6 @@ Kulaç uzunluğu en çok Light Heavyweight klasmanındaki galibiyetler ile korel
 
 Bir de Stance’ler Ekseninden Vuruş İsabetini ve Kazanma Oranını İnceleyelim:
 
-![metin, ekran görüntüsü, diyagram, çizgi içeren bir resim
-
-Açıklama otomatik olarak oluşturuldu](Aspose.Words.8d30fadd-9167-4146-90b1-1ab71d6f0367.018.png)
 
 
 
@@ -333,9 +280,6 @@ Açıklama otomatik olarak oluşturuldu](Aspose.Words.8d30fadd-9167-4146-90b1-1a
 
 Lineer Regresyona Bakalım:
 
-![metin, ekran görüntüsü, diyagram, çizgi içeren bir resim
-
-Açıklama otomatik olarak oluşturuldu](Aspose.Words.8d30fadd-9167-4146-90b1-1ab71d6f0367.019.png)
 
 Orthodox Duruşu:
 
